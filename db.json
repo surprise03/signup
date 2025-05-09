@@ -1,0 +1,100 @@
+{
+  "users": [
+    {
+      "id": "beb0",
+      "name": "Suraj Rachuri",
+      "email": "surajrachuri@gmail.com",
+      "gender": "male",
+      "password": "1234",
+      "confirmPasword": "1234"
+    },
+    {
+      "id": "3784",
+      "name": "Suraj Rachuri",
+      "email": "surajrachuri@gmail.con",
+      "gender": "male",
+      "password": "csdvf",
+      "confirmPasword": "sxcdvc "
+    },
+    {
+      "id": "a10d",
+      "name": "sdvf",
+      "email": "xcd",
+      "gender": "male",
+      "password": "axscdvc",
+      "confirmPasword": "sxcvc"
+    },
+    {
+      "id": "8dcf",
+      "name": "sdvf",
+      "email": "xc",
+      "gender": "male",
+      "password": "axscdvc",
+      "confirmPasword": "sxcvc"
+    },
+    {
+      "id": "ed65",
+      "name": "sdvf",
+      "email": "xci",
+      "gender": "male",
+      "password": "axscdvc",
+      "confirmPasword": "sxcvc"
+    },
+    {
+      "id": "75f9",
+      "name": "sdvf",
+      "email": "x",
+      "gender": "male",
+      "password": "axscdvc",
+      "confirmPasword": "sxcvc"
+    },
+    {
+      "id": "9309",
+      "name": "Suraj Rachuri",
+      "email": "surajrachuri@gmail.co",
+      "gender": "male",
+      "password": "1234",
+      "confirmPasword": "1234"
+    },
+    {
+      "id": "6e77",
+      "name": "Suraj Rachuri",
+      "email": "surajrachuri@gmail.cox",
+      "gender": "male",
+      "password": "1234",
+      "confirmPasword": "1234"
+    },
+    {
+      "id": "a864",
+      "name": "Suraj Rachuri",
+      "email": "surajrachuri@gmail.c",
+      "gender": "male",
+      "password": "1234",
+      "confirmPasword": "1234"
+    },
+    {
+      "id": "f6b6",
+      "name": "Suraj Rachuri",
+      "email": "surajrachuri@gmail.",
+      "gender": "male",
+      "password": "1234",
+      "confirmPasword": "1234"
+    },
+    {
+      "id": "e796",
+      "name": "Suraj Rachuri",
+      "email": "cx vc",
+      "gender": "male",
+      "password": "zx cxvc",
+      "confirmPasword": "z cxvc"
+    },
+    {
+      "id": "9ce2",
+      "name": "Suraj",
+      "email": "temp@gmail.com",
+      "gender": "male",
+      "password": "1234",
+      "confirmPasword": "1234"
+    }
+  ]
+}
